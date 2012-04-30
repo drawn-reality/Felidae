@@ -1,4 +1,7 @@
-English language fan subtitles for the movie Felidae
+English language fan subtitles for the movie Felidae.
 
- - [Wikipedia](http://en.wikipedia.org/wiki/Felidae_(film))
- - [IMDB](http://www.imdb.com/title/tt0109791/)
+ - [Wikipedia][1]
+ - [IMDB][2]
+
+[1]: http://en.wikipedia.org/wiki/Felidae_(film)
+[2]: http://www.imdb.com/title/tt0109791/
