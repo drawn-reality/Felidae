@@ -1,4 +1,4 @@
-English language fan subtitles for the movie Felidae.
+English language fan subtitles for the movie _Felidae_.
 
  - [Wikipedia][1]
  - [IMDB][2]
