@@ -12,22 +12,1284 @@ Last Style Storage: Default
 Collisions: Normal
 Video Zoom: 5
 Audio File: ?video
-Scroll Position: 856
+Scroll Position: 0
 Audio URI: felidae_v4_RAW_[ABD85D25].mkv
 Video File: felidae_v4_RAW_[ABD85D25].mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.89781
-Video Position: 110401
-Active Line: 886
+Video Position: 42069
+Active Line: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue - Main,Mentone Lig,42,&H00E8E8E8,&H00404042,&H001C0907,&H8C000000,0,0,0,0,100,100,0,0,1,3,0,2,160,160,40,1
 Style: Dialogue - Italic,Mentone Lig,42,&H00E8E8E8,&H00404042,&H001C0907,&H8C000000,0,-1,0,0,100,100,0,0,1,3,0,2,160,160,40,1
+Style: Typesetting,NotMPSB,24,&H00130800,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:28:02.74,0:28:09.18,Dialogue - Main,,0,0,0,,typesetting
+Comment: 0,0:28:02.74,0:28:09.18,Typesetting,,0,0,0,,typesetting
+Dialogue: 2,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.14,454.36)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.14,454.36)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.88,486.36)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.88,482.36)}A loner - harmless
+Dialogue: 1,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.88,483.36)}A loner - harmless
+Dialogue: 0,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.88,458.36)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.88,605.36)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.88,605.36)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.88,608.36)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.88,632.36)}arrogant, very musical
+Dialogue: 1,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.88,632.36)}arrogant, very musical
+Dialogue: 0,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.88,635.36)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.88,661.36)}absolutely benign
+Dialogue: 1,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.88,661.36)}absolutely benign
+Dialogue: 0,0:28:02.74,0:28:02.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.88,666.36)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.74,453.4)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.74,453.4)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.47,485.4)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.47,481.4)}A loner - harmless
+Dialogue: 1,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.47,482.4)}A loner - harmless
+Dialogue: 0,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.47,457.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,604.4)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,604.4)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.47,607.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,631.4)}arrogant, very musical
+Dialogue: 1,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,631.4)}arrogant, very musical
+Dialogue: 0,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.47,634.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,660.4)}absolutely benign
+Dialogue: 1,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,660.4)}absolutely benign
+Dialogue: 0,0:28:02.78,0:28:02.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.47,665.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.67,453.4)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.67,453.4)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.41,485.4)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.41,481.4)}A loner - harmless
+Dialogue: 1,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.41,482.4)}A loner - harmless
+Dialogue: 0,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.41,457.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.41,604.4)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.41,604.4)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.41,607.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.41,631.4)}arrogant, very musical
+Dialogue: 1,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.41,631.4)}arrogant, very musical
+Dialogue: 0,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.41,634.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.41,660.4)}absolutely benign
+Dialogue: 1,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.41,660.4)}absolutely benign
+Dialogue: 0,0:28:02.82,0:28:02.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.41,665.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.89,441.19)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.89,441.19)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.63,473.19)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.63,469.19)}A loner - harmless
+Dialogue: 1,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.63,470.19)}A loner - harmless
+Dialogue: 0,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.63,445.19)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.63,592.19)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.63,592.19)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.63,595.19)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.63,619.19)}arrogant, very musical
+Dialogue: 1,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.63,619.19)}arrogant, very musical
+Dialogue: 0,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.63,622.19)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.63,648.19)}absolutely benign
+Dialogue: 1,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.63,648.19)}absolutely benign
+Dialogue: 0,0:28:02.86,0:28:02.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.63,653.19)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.66,430.29)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.66,430.29)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.4,462.29)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.4,458.29)}A loner - harmless
+Dialogue: 1,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.4,459.29)}A loner - harmless
+Dialogue: 0,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.4,434.29)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.4,581.29)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.4,581.29)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.4,584.29)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.4,608.29)}arrogant, very musical
+Dialogue: 1,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.4,608.29)}arrogant, very musical
+Dialogue: 0,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.4,611.29)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.4,637.29)}absolutely benign
+Dialogue: 1,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.4,637.29)}absolutely benign
+Dialogue: 0,0:28:02.90,0:28:02.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.4,642.29)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.51,418.43)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.51,418.43)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.25,450.43)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.25,446.43)}A loner - harmless
+Dialogue: 1,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.25,447.43)}A loner - harmless
+Dialogue: 0,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.25,422.43)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.25,569.43)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.25,569.43)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.25,572.43)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.25,596.43)}arrogant, very musical
+Dialogue: 1,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.25,596.43)}arrogant, very musical
+Dialogue: 0,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.25,599.43)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.25,625.43)}absolutely benign
+Dialogue: 1,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.25,625.43)}absolutely benign
+Dialogue: 0,0:28:02.94,0:28:02.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.25,630.43)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.62,405.68)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.62,405.68)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.35,437.68)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.35,433.68)}A loner - harmless
+Dialogue: 1,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.35,434.68)}A loner - harmless
+Dialogue: 0,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.35,409.68)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.35,556.68)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.35,556.68)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.35,559.68)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.35,583.68)}arrogant, very musical
+Dialogue: 1,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.35,583.68)}arrogant, very musical
+Dialogue: 0,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.35,586.68)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.35,612.68)}absolutely benign
+Dialogue: 1,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.35,612.68)}absolutely benign
+Dialogue: 0,0:28:02.98,0:28:03.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(822.35,617.68)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.97,393.76)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.97,393.76)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.7,425.76)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.7,421.76)}A loner - harmless
+Dialogue: 1,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.7,422.76)}A loner - harmless
+Dialogue: 0,0:28:03.02,0:28:03.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.7,397.76)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.21,381.71)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.21,381.71)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.94,413.71)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.94,409.71)}A loner - harmless
+Dialogue: 1,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.94,410.71)}A loner - harmless
+Dialogue: 0,0:28:03.06,0:28:03.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.94,385.71)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.11,368.76)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.11,368.76)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.84,400.76)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.84,396.76)}A loner - harmless
+Dialogue: 1,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.84,397.76)}A loner - harmless
+Dialogue: 0,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.84,372.76)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.84,519.76)\clip(m 691 521 l 691 510 899 513 900 523)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.84,519.76)\clip(m 691 521 l 691 510 899 513 900 523)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.10,0:28:03.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.84,522.76)\clip(m 691 521 l 691 510 899 513 900 523)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.16,356.99)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.16,356.99)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(824.9,388.99)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(695.9,384.99)}A loner - harmless
+Dialogue: 1,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(695.9,385.99)}A loner - harmless
+Dialogue: 0,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(823.9,360.99)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.9,507.99)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.9,507.99)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.14,0:28:03.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.9,510.99)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.56,344.96)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.56,344.96)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.29,376.96)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.29,372.96)}A loner - harmless
+Dialogue: 1,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.29,373.96)}A loner - harmless
+Dialogue: 0,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.29,348.96)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,495.96)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,495.96)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.29,498.96)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,522.96)\clip(m 691 521 l 691 510 899 513 900 523)}arrogant, very musical
+Dialogue: 1,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,522.96)\clip(m 691 521 l 691 510 899 513 900 523)}arrogant, very musical
+Dialogue: 0,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.29,525.96)\clip(m 691 521 l 691 510 899 513 900 523)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,551.96)}absolutely benign
+Dialogue: 1,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,551.96)}absolutely benign
+Dialogue: 0,0:28:03.18,0:28:03.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.29,556.96)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.4,333.18)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.4,333.18)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.14,365.17)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.14,361.17)}A loner - harmless
+Dialogue: 1,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.14,362.17)}A loner - harmless
+Dialogue: 0,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.14,337.17)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.14,484.17)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.14,484.17)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.14,487.17)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.14,511.17)}arrogant, very musical
+Dialogue: 1,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.14,511.17)}arrogant, very musical
+Dialogue: 0,0:28:03.22,0:28:03.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.14,514.17)\clip(m 782 523 l 860 523 856 485 777 492)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.54,320.62)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.54,320.62)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.27,352.62)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.27,348.62)}A loner - harmless
+Dialogue: 1,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.27,349.62)}A loner - harmless
+Dialogue: 0,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.27,324.62)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.27,471.62)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.27,471.62)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.27,474.62)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.27,498.62)}arrogant, very musical
+Dialogue: 1,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.27,498.62)}arrogant, very musical
+Dialogue: 0,0:28:03.26,0:28:03.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.27,501.62)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.91,308.35)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.91,308.35)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.65,340.35)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.65,336.35)}A loner - harmless
+Dialogue: 1,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.65,337.35)}A loner - harmless
+Dialogue: 0,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.65,312.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,459.35)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,459.35)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.65,462.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,486.35)}arrogant, very musical
+Dialogue: 1,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,486.35)}arrogant, very musical
+Dialogue: 0,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.65,489.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,515.35)\clip(m 689 521 l 687 505 859 508 860 523)}absolutely benign
+Dialogue: 1,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,515.35)\clip(m 689 521 l 687 505 859 508 860 523)}absolutely benign
+Dialogue: 0,0:28:03.30,0:28:03.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.65,520.35)\clip(m 689 521 l 687 505 859 508 860 523)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.86,296.56)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.86,296.56)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.6,328.56)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.6,324.56)}A loner - harmless
+Dialogue: 1,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.6,325.56)}A loner - harmless
+Dialogue: 0,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.6,300.56)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.6,447.56)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.6,447.56)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.6,450.56)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.6,474.56)}arrogant, very musical
+Dialogue: 1,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.6,474.56)}arrogant, very musical
+Dialogue: 0,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.6,477.56)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.6,503.56)}absolutely benign
+Dialogue: 1,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.6,503.56)}absolutely benign
+Dialogue: 0,0:28:03.34,0:28:03.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.6,508.56)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.37,285.59)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.37,285.59)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.11,317.59)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.11,313.59)}A loner - harmless
+Dialogue: 1,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.11,314.59)}A loner - harmless
+Dialogue: 0,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.11,289.59)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.11,436.59)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.11,436.59)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.11,439.59)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.11,463.59)}arrogant, very musical
+Dialogue: 1,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.11,463.59)}arrogant, very musical
+Dialogue: 0,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.11,466.59)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.11,492.59)}absolutely benign
+Dialogue: 1,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.11,492.59)}absolutely benign
+Dialogue: 0,0:28:03.38,0:28:03.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.11,497.59)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.02,277.35)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.02,277.35)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.75,309.35)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.75,305.35)}A loner - harmless
+Dialogue: 1,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.75,306.35)}A loner - harmless
+Dialogue: 0,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.75,281.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.75,428.35)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.75,428.35)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.75,431.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.75,455.35)}arrogant, very musical
+Dialogue: 1,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.75,455.35)}arrogant, very musical
+Dialogue: 0,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.75,458.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.75,484.35)}absolutely benign
+Dialogue: 1,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.75,484.35)}absolutely benign
+Dialogue: 0,0:28:03.42,0:28:03.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.75,489.35)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.43,259.58)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.43,259.58)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.16,291.58)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.16,287.58)}A loner - harmless
+Dialogue: 1,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.16,288.58)}A loner - harmless
+Dialogue: 0,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.16,263.58)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.16,410.58)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.16,410.58)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.16,413.58)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.16,437.58)}arrogant, very musical
+Dialogue: 1,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.16,437.58)}arrogant, very musical
+Dialogue: 0,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.16,440.58)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.16,466.58)}absolutely benign
+Dialogue: 1,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.16,466.58)}absolutely benign
+Dialogue: 0,0:28:03.46,0:28:03.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.16,471.58)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.05,247.4)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.05,247.4)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(825.79,279.4)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(696.79,275.4)}A loner - harmless
+Dialogue: 1,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(696.79,276.4)}A loner - harmless
+Dialogue: 0,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(824.79,251.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.79,398.4)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.79,398.4)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.79,401.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.79,425.4)}arrogant, very musical
+Dialogue: 1,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.79,425.4)}arrogant, very musical
+Dialogue: 0,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.79,428.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.79,454.4)}absolutely benign
+Dialogue: 1,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.79,454.4)}absolutely benign
+Dialogue: 0,0:28:03.50,0:28:03.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(823.79,459.4)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.39,236.31)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.39,236.31)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.13,268.31)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.13,264.31)}A loner - harmless
+Dialogue: 1,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.13,265.31)}A loner - harmless
+Dialogue: 0,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.13,240.31)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.13,387.31)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.13,387.31)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.13,390.31)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.13,414.31)}arrogant, very musical
+Dialogue: 1,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.13,414.31)}arrogant, very musical
+Dialogue: 0,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.13,417.31)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.13,443.31)}absolutely benign
+Dialogue: 1,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.13,443.31)}absolutely benign
+Dialogue: 0,0:28:03.54,0:28:03.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.13,448.31)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.95,223.97)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.95,223.97)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.69,255.97)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.69,251.97)}A loner - harmless
+Dialogue: 1,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.69,252.97)}A loner - harmless
+Dialogue: 0,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.69,227.97)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.69,374.97)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.69,374.97)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.69,377.97)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.69,401.97)}arrogant, very musical
+Dialogue: 1,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.69,401.97)}arrogant, very musical
+Dialogue: 0,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.69,404.97)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.69,430.97)}absolutely benign
+Dialogue: 1,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.69,430.97)}absolutely benign
+Dialogue: 0,0:28:03.58,0:28:03.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.69,435.97)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.51,211.91)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.51,211.91)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.25,243.91)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.25,239.91)}A loner - harmless
+Dialogue: 1,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.25,240.91)}A loner - harmless
+Dialogue: 0,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.25,215.91)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.25,362.91)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.25,362.91)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.25,365.91)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.25,389.91)}arrogant, very musical
+Dialogue: 1,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.25,389.91)}arrogant, very musical
+Dialogue: 0,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.25,392.91)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.25,418.91)}absolutely benign
+Dialogue: 1,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.25,418.91)}absolutely benign
+Dialogue: 0,0:28:03.62,0:28:03.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.25,423.91)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.62,200.26)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.62,200.26)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.36,232.26)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.36,228.26)}A loner - harmless
+Dialogue: 1,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.36,229.26)}A loner - harmless
+Dialogue: 0,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.36,204.26)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.36,351.26)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.36,351.26)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.36,354.26)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.36,378.26)}arrogant, very musical
+Dialogue: 1,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.36,378.26)}arrogant, very musical
+Dialogue: 0,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.36,381.26)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.36,407.26)}absolutely benign
+Dialogue: 1,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.36,407.26)}absolutely benign
+Dialogue: 0,0:28:03.66,0:28:03.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.36,412.26)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.94,187.15)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.94,187.15)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.67,219.15)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.67,215.15)}A loner - harmless
+Dialogue: 1,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.67,216.15)}A loner - harmless
+Dialogue: 0,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.67,191.15)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.67,338.15)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.67,338.15)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.67,341.15)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.67,365.15)}arrogant, very musical
+Dialogue: 1,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.67,365.15)}arrogant, very musical
+Dialogue: 0,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.67,368.15)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.67,394.15)}absolutely benign
+Dialogue: 1,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.67,394.15)}absolutely benign
+Dialogue: 0,0:28:03.70,0:28:03.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.67,399.15)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.04,176.1)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.04,176.1)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.77,208.1)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.77,204.1)}A loner - harmless
+Dialogue: 1,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.77,205.1)}A loner - harmless
+Dialogue: 0,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.77,180.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,327.1)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,327.1)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.77,330.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,354.1)}arrogant, very musical
+Dialogue: 1,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,354.1)}arrogant, very musical
+Dialogue: 0,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.77,357.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,383.1)}absolutely benign
+Dialogue: 1,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,383.1)}absolutely benign
+Dialogue: 0,0:28:03.74,0:28:03.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.77,388.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.04,163.48)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.04,163.48)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.77,195.48)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.77,191.48)}A loner - harmless
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.77,192.48)}A loner - harmless
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.77,167.48)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,314.48)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,314.48)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.77,317.48)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,341.48)}arrogant, very musical
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,341.48)}arrogant, very musical
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.77,344.48)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.77,370.48)}absolutely benign
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.77,370.48)}absolutely benign
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.77,375.48)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(707.76,516.03)\clip(m 695 523 l 688 499 965 503 970 524)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(707.76,516.03)\clip(m 695 523 l 688 499 965 503 970 524)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.78,0:28:03.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.76,520.03)\clip(m 695 523 l 688 499 965 503 970 523)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.09,152.1)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.09,152.1)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(826.82,184.11)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(697.82,180.11)}A loner - harmless
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(697.82,181.11)}A loner - harmless
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(825.82,156.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.82,303.11)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.82,303.11)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.82,306.11)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.82,330.11)}arrogant, very musical
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.82,330.11)}arrogant, very musical
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.82,333.1)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.82,359.11)}absolutely benign
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.82,359.11)}absolutely benign
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.82,364.11)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(707.87,503.9)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(707.87,503.9)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.82,0:28:03.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.87,507.9)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.26,139)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.26,139)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827,171)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698,167)}A loner - harmless
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698,168)}A loner - harmless
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(826,143)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697,290)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697,290)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827,293)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697,317)}arrogant, very musical
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697,317)}arrogant, very musical
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825,320)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697,346)}absolutely benign
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697,346)}absolutely benign
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825,351)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.07,491.15)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.07,491.15)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.07,495.15)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.07,519.15)\clip(m 695 523 l 688 499 965 503 970 524)}mates with Mumie + Praline{idfk, "romances" just doesn't seem right for cats}
+Dialogue: 1,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.07,519.15)\clip(m 695 523 l 688 499 965 503 970 524)}mates with Mumie + Praline
+Dialogue: 0,0:28:03.86,0:28:03.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.07,522.15)\clip(m 695 523 l 688 499 965 503 970 523)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.79,126.51)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.79,126.51)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827.53,158.51)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.53,154.51)}A loner - harmless
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.53,155.51)}A loner - harmless
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(826.53,130.51)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.53,277.51)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.53,277.51)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.53,280.51)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.53,304.51)}arrogant, very musical
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.53,304.51)}arrogant, very musical
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.53,307.51)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.53,333.51)}absolutely benign
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.53,333.51)}absolutely benign
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.53,338.51)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.65,478.44)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.65,478.44)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.65,482.44)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.65,506.44)}mates with Mumie + Praline
+Dialogue: 1,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.65,506.44)}mates with Mumie + Praline
+Dialogue: 0,0:28:03.90,0:28:03.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.65,509.44)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.85,114.66)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.85,114.66)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827.59,146.66)\c&HBC6019&\blur3}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.59,142.66)}A loner - harmless
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.59,143.66)}A loner - harmless
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(826.59,118.66)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.59,265.66)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.59,265.66)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.59,268.66)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.59,292.66)}arrogant, very musical
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.59,292.66)}arrogant, very musical
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.59,295.66)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.59,321.66)}absolutely benign
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.59,321.66)}absolutely benign
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.59,326.66)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.63,466.84)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.63,466.84)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.63,470.84)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.63,494.84)}mates with Mumie + Praline
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.63,494.84)}mates with Mumie + Praline
+Dialogue: 0,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.63,497.84)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.63,523.84)\clip(m 695 523 l 688 499 965 503 970 523)}Second strike!
+Dialogue: 1,0:28:03.94,0:28:03.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.63,523.84)\clip(m 695 523 l 688 499 965 503 970 523)}Second strike!
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.64,102.27)\clip(m 698 105 l 929 108 927 133 700 133)}Europ. Shorthair - castrated
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.64,102.27)\clip(m 698 105 l 929 108 927 133 700 133)}Europ. Shorthair - castrated
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HBC6019&\blur3\pos(826.38,106.27)\clip(m 698 105 l 929 108 927 133 700 133)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.38,130.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.38,131.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827.38,134.27)\c&HBC6019&\blur3\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.38,253.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.38,253.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.38,256.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.38,280.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.38,280.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.38,283.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.38,309.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.38,309.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.38,314.27)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.48,454.39)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.48,454.39)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.48,458.39)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.48,482.39)}mates with Mumie + Praline
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.48,482.39)}mates with Mumie + Praline
+Dialogue: 0,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.48,485.39)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.48,511.39)}Second strike!
+Dialogue: 1,0:28:03.98,0:28:04.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.48,511.39)}Second strike!
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.65,118.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.65,119.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827.65,122.29)\c&HBC6019&\blur3\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.65,241.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.65,241.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.65,244.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.65,268.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.65,268.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.65,271.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.65,297.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.65,297.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.65,302.29)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.8,442.3)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.8,442.3)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.8,446.3)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.8,470.3)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.8,470.3)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.8,473.3)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.8,499.3)}Second strike!
+Dialogue: 1,0:28:04.02,0:28:04.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.8,499.3)}Second strike!
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.5\fsp-0.5\pos(698.37,106.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.5\fsp-0.5\c&HFFFFFF&\pos(698.37,107.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}A loner - harmless
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\pos(827.37,110.37)\c&HBC6019&\blur3\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.37,229.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.37,229.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.37,232.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.37,256.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.37,256.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.37,259.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.37,285.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.37,285.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.37,290.37)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.5,430.39)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.5,430.39)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.5,434.39)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.5,458.39)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.5,458.39)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.5,461.39)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.5,487.39)}Second strike!
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.5,487.39)}Second strike!
+Dialogue: 2,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.5,515.39)\clip(m 695 523 l 688 499 965 503 970 525)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.5,515.39)\clip(m 695 523 l 688 499 965 503 970 524)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.06,0:28:04.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.5,517.39)\clip(m 695 523 l 688 499 965 503 970 523)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.34,218.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.34,218.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.34,221.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.34,245.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.34,245.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.34,248.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.34,274.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.34,274.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.34,279.18)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.4,419.28)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.4,419.28)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.4,423.28)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.4,447.28)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.4,447.28)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.4,450.28)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.4,476.28)}Second strike!
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.4,476.28)}Second strike!
+Dialogue: 2,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.4,504.28)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.4,504.28)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.10,0:28:04.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.4,506.28)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.55,205)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.55,205)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.55,208)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.55,232)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.55,232)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.55,235)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.55,261)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.55,261)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.55,266)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.66,406.17)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.66,406.17)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.66,410.17)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.66,434.17)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.66,434.17)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.66,437.17)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.66,463.17)}Second strike!
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.66,463.17)}Second strike!
+Dialogue: 2,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.66,491.17)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.66,491.17)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.14,0:28:04.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.66,493.17)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.8,193.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.8,193.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.8,196.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.8,220.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.8,220.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.8,223.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.8,249.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.8,249.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.8,254.38)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.87,394.37)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.87,394.37)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.87,398.37)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.87,422.37)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.87,422.37)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.87,425.37)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.87,451.37)}Second strike!
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.87,451.37)}Second strike!
+Dialogue: 2,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.87,479.37)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.87,479.37)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.18,0:28:04.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.87,481.37)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.04,180.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.04,180.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.04,183.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.04,207.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.04,207.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.04,210.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.04,236.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.04,236.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.04,241.43)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.1,381.58)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.1,381.58)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.1,385.58)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.1,409.58)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.1,409.58)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.1,412.58)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.1,438.58)}Second strike!
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.1,438.58)}Second strike!
+Dialogue: 2,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.1,466.58)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.1,466.58)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.22,0:28:04.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.1,468.58)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.81,169.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.81,169.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.81,172.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.81,196.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.81,196.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.81,199.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.81,225.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.81,225.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.81,230.01)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.97,369.98)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.97,369.98)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.97,373.98)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.97,397.98)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.97,397.98)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.97,400.98)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.97,426.98)}Second strike!
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.97,426.98)}Second strike!
+Dialogue: 2,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(708.97,454.98)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(708.97,454.98)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.26,0:28:04.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.97,456.98)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.03,156.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.03,156.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.03,159.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.03,183.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.03,183.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.03,186.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.03,212.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.03,212.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.03,217.45)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.19,357.53)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.19,357.53)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.19,361.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.19,385.53)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.19,385.53)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.19,388.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.19,414.53)}Second strike!
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.19,414.53)}Second strike!
+Dialogue: 2,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.19,442.53)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.19,442.53)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.30,0:28:04.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.19,444.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.42,143.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.42,143.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.42,146.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.42,170.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.42,170.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.42,173.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.42,199.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.42,199.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.42,204.68)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.43,344.71)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.43,344.71)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.43,348.71)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.43,372.71)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.43,372.71)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.43,375.71)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.43,401.71)}Second strike!
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.43,401.71)}Second strike!
+Dialogue: 2,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.43,429.71)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.43,429.71)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.34,0:28:04.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.43,431.71)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.36,131.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.36,131.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.36,134.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.36,158.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.36,158.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.36,161.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.36,187.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.36,187.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.36,192.78)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.37,332.82)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.37,332.82)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.37,336.82)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.37,360.82)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.37,360.82)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.37,363.82)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.37,389.82)}Second strike!
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.37,389.82)}Second strike!
+Dialogue: 2,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.37,417.82)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.37,417.82)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.38,0:28:04.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.37,419.82)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.62,119.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.62,119.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.62,122.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.62,146.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.62,146.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.62,149.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.62,175.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.62,175.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.62,180.88)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.63,320.91)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.63,320.91)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.63,324.91)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.63,348.91)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.63,348.91)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.63,351.91)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.63,377.91)}Second strike!
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.63,377.91)}Second strike!
+Dialogue: 2,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.63,405.91)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.63,405.91)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.42,0:28:04.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.63,407.91)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.67,109.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.67,109.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.67,112.3)\clip(m 26 98 l 1006 110 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.67,136.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.67,136.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.67,139.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.67,165.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.67,165.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.67,170.3)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.68,310.34)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.68,310.34)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.68,314.34)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.68,338.34)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.68,338.34)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.68,341.34)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.68,367.34)}Second strike!
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.68,367.34)}Second strike!
+Dialogue: 2,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.68,395.34)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.68,395.34)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.46,0:28:04.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.68,397.34)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.82,122.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.82,122.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.82,125.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.82,151.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.82,151.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.82,156.77)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.83,296.8)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.83,296.8)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.83,300.8)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.83,324.8)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.83,324.8)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.83,327.8)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.83,353.8)}Second strike!
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.83,353.8)}Second strike!
+Dialogue: 2,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.83,381.8)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.83,381.8)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.50,0:28:04.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.83,383.8)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.73,111.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.73,111.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.73,114.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.73,140.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.73,140.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.73,145.04)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.74,285.07)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.74,285.07)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.74,289.07)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.74,313.07)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.74,313.07)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.74,316.07)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.74,342.07)}Second strike!
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.74,342.07)}Second strike!
+Dialogue: 2,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.74,370.07)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.74,370.07)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.54,0:28:04.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.74,372.07)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.93,99.75)\clip(m 26 98 l 1006 110 1012 524 21 514)}arrogant, very musical
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.93,99.75)\clip(m 26 98 l 1006 110 1012 524 21 514)}arrogant, very musical
+Dialogue: 0,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.93,102.75)\clip(m 26 98 l 1006 110 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(698.93,128.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(698.93,128.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.93,133.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.94,273.78)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.94,273.78)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.94,277.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.94,301.78)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.94,301.78)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.94,304.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.94,330.78)}Second strike!
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.94,330.78)}Second strike!
+Dialogue: 2,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(709.94,358.78)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(709.94,358.78)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.58,0:28:04.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.94,360.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(699.09,116.26)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(699.09,116.26)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.09,121.26)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.1,261.3)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.1,261.3)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.1,265.3)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.1,289.3)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.1,289.3)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.1,292.3)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.1,318.3)}Second strike!
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.1,318.3)}Second strike!
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.1,346.3)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.1,346.3)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.1,348.3)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(692.66,514.84)\clip(m 648 521 l 914 524 913 508 650 503)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(692.66,514.84)\clip(m 648 521 l 914 524 913 508 650 503)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.62,0:28:04.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(824.66,518.84)\clip(m 648 521 l 914 523 913 508 650 503)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(699.45,103.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(699.45,103.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}absolutely benign
+Dialogue: 0,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.45,108.75)\clip(m 26 98 l 1006 109 1012 524 21 514)}m 0 0 l 20 0 20 20 0 20
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,248.78)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,248.78)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.46,252.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,276.78)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,276.78)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.46,279.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,305.78)}Second strike!
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,305.78)}Second strike!
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,333.78)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,333.78)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.46,335.78)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.02,502.32)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.02,502.32)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.66,0:28:04.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.02,506.32)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,237.13)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,237.13)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.46,241.13)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,265.13)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,265.13)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.46,268.13)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,294.13)}Second strike!
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,294.13)}Second strike!
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.46,322.13)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.46,322.13)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.46,324.13)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.02,490.67)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.02,490.67)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.02,494.67)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.02,517.67)\clip(m 648 521 l 914 524 913 508 650 503)}elegant, but vain
+Dialogue: 1,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.02,517.67)\clip(m 648 521 l 914 524 913 508 650 503)}elegant, but vain
+Dialogue: 0,0:28:04.70,0:28:04.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.02,520.67)\clip(m 648 521 l 914 524 913 508 650 503)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.64,224.65)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.64,224.65)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.64,228.65)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.64,252.65)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.64,252.65)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.64,255.65)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.64,281.65)}Second strike!
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.64,281.65)}Second strike!
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.64,309.65)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.64,309.65)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.64,311.65)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.2,478.19)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.2,478.19)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.2,482.19)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.2,505.19)}elegant, but vain
+Dialogue: 1,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.2,505.19)}elegant, but vain
+Dialogue: 0,0:28:04.74,0:28:04.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.2,508.19)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.72,211.53)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.72,211.53)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.72,215.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.72,239.53)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.72,239.53)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.72,242.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.72,268.53)}Second strike!
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.72,268.53)}Second strike!
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.72,296.53)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.72,296.53)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.72,298.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.28,465.07)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.28,465.07)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.28,469.07)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.28,492.07)}elegant, but vain
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.28,492.07)}elegant, but vain
+Dialogue: 0,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.28,495.07)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.28,520.07)\clip(m 648 521 l 914 524 913 508 650 503)}very sociable
+Dialogue: 1,0:28:04.78,0:28:04.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.28,520.07)\clip(m 648 521 l 914 524 913 508 650 503)}very sociable
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,200.41)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,200.41)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828,204.41)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,228.41)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,228.41)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828,231.41)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,257.41)}Second strike!
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,257.41)}Second strike!
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,285.41)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,285.41)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827,287.41)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,453.95)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,453.95)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.56,457.95)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,480.95)}elegant, but vain
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,480.95)}elegant, but vain
+Dialogue: 0,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.56,483.95)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,508.95)}very sociable
+Dialogue: 1,0:28:04.82,0:28:04.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,508.95)}very sociable
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.77,188.03)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.77,188.03)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.77,192.03)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.77,216.03)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.77,216.03)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.77,219.03)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.77,245.03)}Second strike!
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.77,245.03)}Second strike!
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.77,273.03)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.77,273.03)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.77,275.03)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.33,441.57)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.33,441.57)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.33,445.57)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.33,468.57)}elegant, but vain
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.33,468.57)}elegant, but vain
+Dialogue: 0,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.33,471.57)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.33,496.57)}very sociable
+Dialogue: 1,0:28:04.86,0:28:04.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.33,496.57)}very sociable
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.87,175.33)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.87,175.33)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.87,179.33)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.87,203.33)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.87,203.33)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.87,206.33)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.87,232.33)}Second strike!
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.87,232.33)}Second strike!
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.87,260.33)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.87,260.33)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.87,262.33)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.43,428.87)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.43,428.87)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.43,432.87)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.43,455.87)}elegant, but vain
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.43,455.87)}elegant, but vain
+Dialogue: 0,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.43,458.87)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.43,483.87)}very sociable
+Dialogue: 1,0:28:04.90,0:28:04.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.43,483.87)}very sociable
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.73,164.81)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.73,164.81)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.73,168.81)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.73,192.81)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.73,192.81)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.73,195.81)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.73,221.81)}Second strike!
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.73,221.81)}Second strike!
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.73,249.81)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.73,249.81)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.73,251.81)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.29,418.35)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.29,418.35)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.29,422.35)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.29,445.35)}elegant, but vain
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.29,445.35)}elegant, but vain
+Dialogue: 0,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.29,448.35)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.29,473.35)}very sociable
+Dialogue: 1,0:28:04.94,0:28:04.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.29,473.35)}very sociable
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.84,151.88)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.84,151.88)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.84,155.88)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.84,179.88)}mates with Mumie + Praline
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.84,179.88)}mates with Mumie + Praline
+Dialogue: 0,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.84,182.88)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.84,208.88)}Second strike!
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.84,208.88)}Second strike!
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(710.84,236.88)}Father of the dangerous kids:
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(710.84,236.88)}Father of the dangerous kids:
+Dialogue: 0,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.84,238.88)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.4,405.42)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.4,405.42)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.4,409.42)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.4,432.42)}elegant, but vain
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.4,432.42)}elegant, but vain
+Dialogue: 0,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.4,435.42)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.4,460.42)}very sociable
+Dialogue: 1,0:28:04.98,0:28:05.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.4,460.42)}very sociable
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,140)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,140)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828,144)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,168)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,168)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828,171)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,197)}Second strike!
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,197)}Second strike!
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711,225)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711,225)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827,227)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,393.54)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,393.54)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.56,397.54)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,420.54)}elegant, but vain
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,420.54)}elegant, but vain
+Dialogue: 0,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.56,423.54)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.56,448.54)}very sociable
+Dialogue: 1,0:28:05.02,0:28:05.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.56,448.54)}very sociable
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.18,127.22)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.18,127.22)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.18,131.22)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.18,155.22)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.18,155.22)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.18,158.22)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.18,184.22)}Second strike!
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.18,184.22)}Second strike!
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.18,212.22)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.18,212.22)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.18,214.22)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.73,380.76)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.73,380.76)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.73,384.76)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.73,407.76)}elegant, but vain
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.73,407.76)}elegant, but vain
+Dialogue: 0,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.73,410.76)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.73,435.76)}very sociable
+Dialogue: 1,0:28:05.06,0:28:05.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.73,435.76)}very sociable
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.36,115.83)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.36,115.83)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.36,119.83)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.36,143.83)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.36,143.83)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.36,146.83)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.36,172.83)}Second strike!
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.36,172.83)}Second strike!
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.36,200.83)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.36,200.83)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.36,202.83)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.91,369.37)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.91,369.37)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.91,373.37)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.91,396.37)}elegant, but vain
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.91,396.37)}elegant, but vain
+Dialogue: 0,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.91,399.37)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.91,424.37)}very sociable
+Dialogue: 1,0:28:05.10,0:28:05.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.91,424.37)}very sociable
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.49,103.13)\clip(m 714 105 l 960 108 952 127 712 128)}Turkish Angora - DANGEROUS!
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.49,103.13)\clip(m 714 105 l 960 108 952 127 712 128)}Turkish Angora - DANGEROUS!
+Dialogue: 0,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.49,107.13)\clip(m 714 105 l 960 109 952 127 712 128)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.49,131.13)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.49,131.13)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.49,134.13)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.49,160.13)}Second strike!
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.49,160.13)}Second strike!
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.49,188.13)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.49,188.13)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.49,190.13)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.05,356.67)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.05,356.67)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.05,360.67)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.05,383.67)}elegant, but vain
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.05,383.67)}elegant, but vain
+Dialogue: 0,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.05,386.67)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.05,411.67)}very sociable
+Dialogue: 1,0:28:05.14,0:28:05.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.05,411.67)}very sociable
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.31,118.92)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.31,118.92)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.31,121.92)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.31,147.92)}Second strike!
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.31,147.92)}Second strike!
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.31,175.92)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.31,175.92)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.31,177.92)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.87,344.46)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.87,344.46)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(825.87,348.46)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.87,371.46)}elegant, but vain
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.87,371.46)}elegant, but vain
+Dialogue: 0,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.87,374.46)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(693.87,399.46)}very sociable
+Dialogue: 1,0:28:05.18,0:28:05.22,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(693.87,399.46)}very sociable
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.92,107.15)\clip(m 714 105 l 960 108 952 127 712 128)}mates with Mumie + Praline
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.92,107.15)\clip(m 714 105 l 960 108 952 127 712 128)}mates with Mumie + Praline
+Dialogue: 0,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.92,110.15)\clip(m 714 105 l 960 109 952 127 712 128)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.92,136.15)}Second strike!
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.92,136.15)}Second strike!
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.92,164.15)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.92,164.15)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.92,166.15)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,332.69)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,332.69)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.47,336.69)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,359.69)}elegant, but vain
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,359.69)}elegant, but vain
+Dialogue: 0,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.47,362.69)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.47,387.69)}very sociable
+Dialogue: 1,0:28:05.22,0:28:05.26,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.47,387.69)}very sociable
+Dialogue: 2,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.66,123.7)}Second strike!
+Dialogue: 1,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.66,123.7)}Second strike!
+Dialogue: 2,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.66,151.7)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.66,151.7)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.66,153.7)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.22,320.24)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.22,320.24)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.22,324.24)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.22,347.24)}elegant, but vain
+Dialogue: 1,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.22,347.24)}elegant, but vain
+Dialogue: 0,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.22,350.24)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.22,375.24)}very sociable
+Dialogue: 1,0:28:05.26,0:28:05.30,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.22,375.24)}very sociable
+Dialogue: 2,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.87,111.91)}Second strike!
+Dialogue: 1,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.87,111.91)}Second strike!
+Dialogue: 2,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(711.87,139.91)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(711.87,139.91)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.87,141.91)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.43,308.45)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.43,308.45)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.43,312.45)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.43,335.45)}elegant, but vain
+Dialogue: 1,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.43,335.45)}elegant, but vain
+Dialogue: 0,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.43,338.45)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.43,363.45)}very sociable
+Dialogue: 1,0:28:05.30,0:28:05.34,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.43,363.45)}very sociable
+Dialogue: 2,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(712.11,100.14)\clip(m 714 105 l 960 108 952 127 712 128)}Second strike!
+Dialogue: 1,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(712.11,100.14)\clip(m 714 105 l 960 108 952 127 712 128)}Second strike!
+Dialogue: 2,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(712.11,128.14)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(712.11,128.14)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.11,130.14)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.67,296.68)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.67,296.68)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.67,300.68)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.67,323.68)}elegant, but vain
+Dialogue: 1,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.67,323.68)}elegant, but vain
+Dialogue: 0,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.67,326.68)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.67,351.68)}very sociable
+Dialogue: 1,0:28:05.34,0:28:05.38,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.67,351.68)}very sociable
+Dialogue: 2,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(712.08,117.43)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(712.08,117.43)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.08,119.43)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.64,285.96)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.64,285.96)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.64,289.96)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.64,312.96)}elegant, but vain
+Dialogue: 1,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.64,312.96)}elegant, but vain
+Dialogue: 0,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.64,315.96)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.64,340.96)}very sociable
+Dialogue: 1,0:28:05.38,0:28:05.42,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.64,340.96)}very sociable
+Dialogue: 2,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(712.25,103.34)\clip(m 714 105 l 960 108 952 127 712 128)}Father of the dangerous kids:
+Dialogue: 1,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(712.25,103.34)\clip(m 714 105 l 960 108 952 127 712 128)}Father of the dangerous kids:
+Dialogue: 0,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.25,105.34)\clip(m 714 105 l 960 109 952 127 712 128)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.8,271.88)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.8,271.88)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.8,275.88)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.8,298.88)}elegant, but vain
+Dialogue: 1,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.8,298.88)}elegant, but vain
+Dialogue: 0,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.8,301.88)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.8,326.88)}very sociable
+Dialogue: 1,0:28:05.42,0:28:05.46,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.8,326.88)}very sociable
+Dialogue: 2,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.89,260.24)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.89,260.24)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.89,264.24)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.89,287.24)}elegant, but vain
+Dialogue: 1,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.89,287.24)}elegant, but vain
+Dialogue: 0,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.89,290.24)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.89,315.24)}very sociable
+Dialogue: 1,0:28:05.46,0:28:05.50,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.89,315.24)}very sociable
+Dialogue: 2,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.97,247.97)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.97,247.97)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.97,251.97)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.97,274.97)}elegant, but vain
+Dialogue: 1,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.97,274.97)}elegant, but vain
+Dialogue: 0,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.97,277.97)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.97,302.97)}very sociable
+Dialogue: 1,0:28:05.50,0:28:05.54,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.97,302.97)}very sociable
+Dialogue: 2,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.9,236.59)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.9,236.59)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(826.9,240.59)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.9,263.59)}elegant, but vain
+Dialogue: 1,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.9,263.59)}elegant, but vain
+Dialogue: 0,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.9,266.59)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(694.9,291.59)}very sociable
+Dialogue: 1,0:28:05.54,0:28:05.58,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(694.9,291.59)}very sociable
+Dialogue: 2,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.11,224.84)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.11,224.84)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.11,228.84)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.11,251.84)}elegant, but vain
+Dialogue: 1,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.11,251.84)}elegant, but vain
+Dialogue: 0,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.11,254.84)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.11,279.84)}very sociable
+Dialogue: 1,0:28:05.58,0:28:05.62,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.11,279.84)}very sociable
+Dialogue: 2,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,211.62)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,211.62)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.29,215.62)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,238.62)}elegant, but vain
+Dialogue: 1,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,238.62)}elegant, but vain
+Dialogue: 0,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.29,241.62)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.29,266.62)}very sociable
+Dialogue: 1,0:28:05.62,0:28:05.66,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.29,266.62)}very sociable
+Dialogue: 2,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.56,199.49)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.56,199.49)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.56,203.49)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.56,226.49)}elegant, but vain
+Dialogue: 1,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.56,226.49)}elegant, but vain
+Dialogue: 0,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.56,229.49)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.56,254.49)}very sociable
+Dialogue: 1,0:28:05.66,0:28:05.70,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.56,254.49)}very sociable
+Dialogue: 2,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.58,186.53)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.58,186.53)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.58,190.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.58,213.53)}elegant, but vain
+Dialogue: 1,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.58,213.53)}elegant, but vain
+Dialogue: 0,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.58,216.53)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.58,241.53)}very sociable
+Dialogue: 1,0:28:05.70,0:28:05.74,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.58,241.53)}very sociable
+Dialogue: 2,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.53,175.67)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.53,175.67)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.53,179.67)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.53,202.67)}elegant, but vain
+Dialogue: 1,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.53,202.67)}elegant, but vain
+Dialogue: 0,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.53,205.67)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.53,230.67)}very sociable
+Dialogue: 1,0:28:05.74,0:28:05.78,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.53,230.67)}very sociable
+Dialogue: 2,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.59,163.51)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.59,163.51)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.59,167.51)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.59,190.51)}elegant, but vain
+Dialogue: 1,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.59,190.51)}elegant, but vain
+Dialogue: 0,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.59,193.51)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.59,218.51)}very sociable
+Dialogue: 1,0:28:05.78,0:28:05.82,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.59,218.51)}very sociable
+Dialogue: 2,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,151.36)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,151.36)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.65,155.36)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,178.36)}elegant, but vain
+Dialogue: 1,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,178.36)}elegant, but vain
+Dialogue: 0,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.65,181.36)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.65,206.36)}very sociable
+Dialogue: 1,0:28:05.82,0:28:05.86,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.65,206.36)}very sociable
+Dialogue: 2,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696,138)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696,138)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828,142)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696,165)}elegant, but vain
+Dialogue: 1,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696,165)}elegant, but vain
+Dialogue: 0,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(829,168)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696,193)}very sociable
+Dialogue: 1,0:28:05.86,0:28:05.90,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696,193)}very sociable
+Dialogue: 2,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.85,126.73)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.85,126.73)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(827.85,130.73)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.85,153.73)}elegant, but vain
+Dialogue: 1,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.85,153.73)}elegant, but vain
+Dialogue: 0,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.85,156.73)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(695.85,181.73)}very sociable
+Dialogue: 1,0:28:05.90,0:28:05.94,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(695.85,181.73)}very sociable
+Dialogue: 2,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.03,113.99)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.03,113.99)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.03,117.99)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.03,140.99)}elegant, but vain
+Dialogue: 1,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.03,140.99)}elegant, but vain
+Dialogue: 0,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(829.03,143.99)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.03,168.99)}very sociable
+Dialogue: 1,0:28:05.94,0:28:05.98,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.03,168.99)}very sociable
+Dialogue: 2,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.05,102.44)\clip(m 654 105 l 960 108 952 127 652 128)}Europ. Shorthair - sterile
+Dialogue: 1,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.05,102.44)\clip(m 654 105 l 960 108 952 127 652 128)}Europ. Shorthair - sterile
+Dialogue: 0,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(828.05,106.43)\clip(m 654 107 l 960 108 952 127 652 128)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.05,129.44)}elegant, but vain
+Dialogue: 1,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.05,129.44)}elegant, but vain
+Dialogue: 0,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(829.05,132.44)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.05,157.44)}very sociable
+Dialogue: 1,0:28:05.98,0:28:06.02,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.05,157.44)}very sociable
+Dialogue: 2,0:28:06.02,0:28:06.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.99,119.51)}elegant, but vain
+Dialogue: 1,0:28:06.02,0:28:06.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.99,119.51)}elegant, but vain
+Dialogue: 0,0:28:06.02,0:28:06.06,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(829.99,122.51)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:06.02,0:28:06.06,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(696.99,147.51)}very sociable
+Dialogue: 1,0:28:06.02,0:28:06.06,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(696.99,147.51)}very sociable
+Dialogue: 2,0:28:06.06,0:28:06.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.07,106.95)\clip(m 654 105 l 960 108 952 127 652 128)}elegant, but vain
+Dialogue: 1,0:28:06.06,0:28:06.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.07,106.95)\clip(m 654 105 l 960 108 952 127 652 128)}elegant, but vain
+Dialogue: 0,0:28:06.06,0:28:06.10,Typesetting,,0,0,0,,{\an5\frz359.3\p1\c&HC4641B&\blur3\pos(830.07,109.95)\clip(m 654 105 l 960 108 952 127 652 128)}m 0 0 l 15 0 15 20 0 20
+Dialogue: 2,0:28:06.06,0:28:06.10,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.07,134.95)}very sociable
+Dialogue: 1,0:28:06.06,0:28:06.10,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.07,134.95)}very sociable
+Dialogue: 2,0:28:06.10,0:28:06.14,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.07,123.72)}very sociable
+Dialogue: 1,0:28:06.10,0:28:06.14,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.07,123.72)}very sociable
+Dialogue: 2,0:28:06.14,0:28:06.18,Typesetting,,0,0,0,,{\blur1.1\an4\frz359.4\fsp-0.5\pos(697.11,111.14)}very sociable
+Dialogue: 1,0:28:06.14,0:28:06.18,Typesetting,,0,0,0,,{\blur2\alpha&HC0&\an4\frz359.4\fsp-0.5\c&HFFFFFF&\pos(697.11,111.14)}very sociable
+Dialogue: 0,0:28:06.54,0:28:06.58,Typesetting,,0,0,0,,{\blur1\an4\frz359.4\fsp-0.5\pos(771,140)}Sicilian wildcat (rare)
+Comment: 0,0:28:17.02,0:28:20.18,Typesetting,,0,0,0,,typesetting
+Comment: 0,0:28:36.02,0:28:40.62,Typesetting,,0,0,0,,typesetting
+Comment: 0,0:28:53.06,0:28:54.58,Typesetting,,0,0,0,,typesetting
+Comment: 0,0:28:59.50,0:29:01.78,Typesetting,,0,0,0,,typesetting?
+Comment: 0,1:07:00.78,1:07:04.46,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:07:08.22,1:07:11.98,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:07:21.42,1:07:24.38,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:08:57.14,1:08:59.70,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:09:24.66,1:09:29.02,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:10:18.30,1:10:19.98,Typesetting,,0,0,0,,typesetting
+Comment: 0,1:10:22.34,1:10:24.14,Typesetting,,0,0,0,,typesetting
 Dialogue: 0,0:01:04.02,0:01:06.98,Dialogue - Italic,Francis,0,0,0,,If you really want to hear my story,
 Dialogue: 0,0:01:06.98,0:01:12.42,Dialogue - Italic,Francis,0,0,0,,then you must first become accustomed to the idea of hearing an unpleasant one.
 Dialogue: 0,0:01:12.42,0:01:15.58,Dialogue - Italic,Francis,0,0,0,,Oh, pardon. The name: Francis.
@@ -340,14 +1602,13 @@ Dialogue: 0,0:27:48.94,0:27:53.62,Dialogue - Main,Francis,0,0,0,,As far as I kno
 Comment: 0,0:27:48.94,0:27:53.62,Dialogue - Main,Francis,0,0,0,,{\an8}Note: Francis says "Katzenartige", which is actually the Feliformia suborder to which the Felidae family belongs. Additionally, he calls them a species.
 Dialogue: 0,0:27:53.62,0:27:54.94,Dialogue - Main,Pascal,0,0,0,,Felidae.
 Dialogue: 0,0:27:55.70,0:27:59.66,Dialogue - Main,Pascal,0,0,0,,Evolution brought an amazing variety of organisms to life.
-Dialogue: 0,0:27:59.66,0:28:04.06,Dialogue - Main,Pascal,0,0,0,,But none compel a greater respect and admiration than the Felidae.
-Dialogue: 0,0:28:04.06,0:28:06.54,Dialogue - Main,Francis,0,0,0,,What’s included in your list, Pascal?
-Dialogue: 0,0:28:06.54,0:28:07.98,Dialogue - Main,Pascal,0,0,0,,All the inhabitants of our territory.
-Dialogue: 0,0:28:07.98,0:28:10.86,Dialogue - Main,Pascal,0,0,0,,Name, age, gender, race, etc.{edit}
+Dialogue: 3,0:27:59.66,0:28:04.06,Dialogue - Main,Pascal,0,0,0,,But none compel a greater respect and admiration than the Felidae.
+Dialogue: 3,0:28:04.06,0:28:06.54,Dialogue - Main,Francis,0,0,0,,What’s included in your list, Pascal?
+Dialogue: 3,0:28:06.54,0:28:07.98,Dialogue - Main,Pascal,0,0,0,,All the inhabitants of our territory.
+Dialogue: 3,0:28:07.98,0:28:10.86,Dialogue - Main,Pascal,0,0,0,,Name, age, gender, race, etc.{edit}
 Dialogue: 0,0:28:10.86,0:28:13.34,Dialogue - Main,Pascal,0,0,0,,That reminds me... I have yet to register you.
-Comment: 0,0:28:17.02,0:28:20.18,Dialogue - Main,,0,0,0,,typesetting
 Dialogue: 0,0:28:13.70,0:28:14.18,Dialogue - Main,Francis,0,0,0,,Interesting.
-Dialogue: 0,0:28:14.18,0:28:15.14,Dialogue - Main,Pascal,0,0,0,,Isn’t it? {I was tempted to replace this with desho~? xD}
+Dialogue: 0,0:28:14.18,0:28:15.14,Dialogue - Main,Pascal,0,0,0,,Isn’t it?{I was tempted to replace this with desho~? xD}
 Dialogue: 0,0:28:15.14,0:28:19.46,Dialogue - Main,Pascal,0,0,0,,Especially if it can help solve this murder case.
 Dialogue: 0,0:28:20.58,0:28:23.70,Dialogue - Main,Francis,0,0,0,,Did you know that all victims at the time of—
 Dialogue: 0,0:28:22.74,0:28:23.70,Dialogue - Main,Pascal,0,0,0,,Yes.
@@ -356,17 +1617,14 @@ Dialogue: 0,0:28:27.86,0:28:30.06,Dialogue - Main,Francis,0,0,0,,Ehm, I have an 
 Dialogue: 0,0:28:30.06,0:28:30.50,Dialogue - Main,Pascal,0,0,0,,Yes?
 Dialogue: 0,0:28:30.50,0:28:33.74,Dialogue - Main,Francis,0,0,0,,Command the computer to single out the races of the victims.{He’s new to using computers, hence the awkward phrasing. - I’d like that to be saved over somehow.}
 Dialogue: 0,0:28:34.78,0:28:36.02,Dialogue - Main,Pascal,0,0,0,,Hats off.{In german he says "compliment", which can be used as a stand-alone term.}
-Comment: 0,0:28:36.02,0:28:40.62,Dialogue - Main,,0,0,0,,typesetting
 Dialogue: 0,0:28:38.06,0:28:42.74,Dialogue - Main,Pascal,0,0,0,,None of the five were noble exemplars of Felidae.{edit}
 Dialogue: 0,0:28:42.74,0:28:47.10,Dialogue - Main,Francis,0,0,0,,Odd. All the victims were male, in heat and European Shorthair.
 Dialogue: 0,0:28:47.38,0:28:48.30,Dialogue - Main,Pascal,0,0,0,,Wrong.
 Dialogue: 0,0:28:48.30,0:28:52.10,Dialogue - Main,Pascal,0,0,0,,Not all. I have yet to register the sixth victim.
-Comment: 0,0:28:53.06,0:28:54.58,Dialogue - Main,,0,0,0,,typesetting
 Dialogue: 0,0:28:52.10,0:28:53.94,Dialogue - Main,Francis,0,0,0,,Wh-wh-what sixth victim?
 Dialogue: 0,0:28:54.58,0:28:56.18,Dialogue - Main,Francis,0,0,0,,Felicitas?
 Dialogue: 0,0:28:56.70,0:28:57.62,Dialogue - Main,Pascal,0,0,0,,Yes.
 Dialogue: 0,0:28:58.18,0:28:59.50,Dialogue - Main,Pascal,0,0,0,,Unfortunately, Felicitas too.
-Comment: 0,0:28:59.50,0:29:01.78,Dialogue - Main,,0,0,0,,typesetting?
 Dialogue: 0,0:28:59.50,0:29:01.10,Dialogue - Main,Francis,0,0,0,,No, Pascal! That’s impossible!
 Dialogue: 0,0:29:01.10,0:29:03.30,Dialogue - Main,Francis,0,0,0,,I was talking with her only an hour ago!
 Dialogue: 0,0:29:03.30,0:29:06.98,Dialogue - Main,Pascal,0,0,0,,However, I was informed of it just before you and Blaubart arrived.{edit}
@@ -835,15 +2093,13 @@ Dialogue: 0,1:06:09.34,1:06:11.30,Dialogue - Main,Francis,0,0,0,,Okay, you take 
 Dialogue: 0,1:06:11.30,1:06:13.86,Dialogue - Main,Francis,0,0,0,,I’ll climb the tree and enter the study from there.
 Dialogue: 0,1:06:17.30,1:06:19.58,Dialogue - Main,Blaubart,0,0,0,,Blaubart was here.{No reason to sub this, right?}
 Dialogue: 0,1:06:40.02,1:06:42.38,Dialogue - Main,Francis,0,0,0,,The password, dammit!
-Comment: 0,1:07:00.78,1:07:04.46,Dialogue - Main,,0,0,0,,typesetting
 Dialogue: 0,1:07:02.86,1:07:05.74,Dialogue - Main,Francis,0,0,0,,Come on, come on, think. Think!
 Dialogue: 0,1:07:05.74,1:07:07.34,Dialogue - Main,Francis,0,0,0,,The damn password!
-Comment: 0,1:07:08.22,1:07:11.98,Dialogue - Main,,0,0,0,,typesetting
 Dialogue: 0,1:07:11.98,1:07:15.50,Dialogue - Main,Francis,0,0,0,,Number 287: Pascha {Number as in sample}
 Dialogue: 0,1:07:15.50,1:07:20.06,Dialogue - Main,Francis,0,0,0,,1986, June 18th at about 12:30 a.m.:
 Dialogue: 0,1:07:20.06,1:07:22.74,Dialogue - Main,Francis,0,0,0,,attempted to copulate with Tragiyahn.
 Dialogue: 0,1:07:22.74,1:07:25.66,Dialogue - Main,Francis,0,0,0,,All persuasion was in vain.
-Dialogue: 0,1:07:27.94,1:07:29.94,Dialogue - Main,Francis,0,0,0,,Suddenly I understood!
+Dialogue: 0,1:07:27.94,1:07:29.94,Dialogue - Italic,Francis,0,0,0,,Suddenly I understood!
 Dialogue: 0,1:07:30.42,1:07:34.02,Dialogue - Italic,Francis,0,0,0,,He had to ensure that the female chosen for breeding
 Dialogue: 0,1:07:34.02,1:07:36.62,Dialogue - Italic,Francis,0,0,0,,would pair up with the corresponding male!
 Dialogue: 0,1:07:36.62,1:07:39.38,Dialogue - Italic,Francis,0,0,0,,And if a different animal was to butt in,
@@ -879,8 +2135,8 @@ Dialogue: 0,1:09:05.34,1:09:08.50,Dialogue - Main,Claudandus,0,0,0,,You lived yo
 Dialogue: 0,1:09:08.50,1:09:13.18,Dialogue - Main,Claudandus,0,0,0,,and at night, you slept your carefree, ordinary little sleep
 Dialogue: 0,1:09:13.18,1:09:15.38,Dialogue - Main,Claudandus,0,0,0,,filled with peaceful, stupid dreams.
 Dialogue: 0,1:09:15.38,1:09:16.54,Dialogue - Main,Claudandus,0,0,0,,And I...
-Dialogue: 0,1:09:17.18,1:09:19.54,Dialogue - Main,Claudandus,0,0,0,,have brought you nightmares.
-Dialogue: 0,1:09:20.10,1:09:21.54,Dialogue - Main,Claudandus,0,0,0,,Didn’t I?
+Dialogue: 0,1:09:17.18,1:09:19.54,Dialogue - Main,Claudandus,0,0,0,,Have brought you nightmares.
+Dialogue: 0,1:09:20.10,1:09:21.54,Dialogue - Main,Claudandus,0,0,0,,Haven’t I?
 Dialogue: 0,1:09:21.94,1:09:24.14,Dialogue - Main,Claudandus,0,0,0,,This world is hell, Francis!
 Dialogue: 0,1:09:24.14,1:09:28.38,Dialogue - Main,Claudandus,0,0,0,,And the culmination of all this ugliness in the universe is the human race! {Human as the race}
 Dialogue: 0,1:09:29.34,1:09:33.90,Dialogue - Main,Claudandus,0,0,0,,I tell you, my friend, we are cut from the same cloth.{as opposed to being cut from the same}
